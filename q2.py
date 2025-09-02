@@ -10,4 +10,3 @@ for i in range(1, produtos_v +1):
     else:
         abaixocinq +=1
 print(f'o valor total foi de {total}R$ e {abaixocinq} produto(s) ficaram abaixo de 50R$ e {acimacinq} produto(s) ficaram acima de 50R$. ')
-print("Programa finalizado.")
